@@ -92,3 +92,22 @@ h2{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 40px;
 }
+
+@media screen and (max-width: 500px){
+    *{
+        background-color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    }
+
+    footer {
+        width: 500px;
+    }
+
+    header {
+        width: 500px;
+    }
+
+    
+
+}
